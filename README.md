@@ -1,3 +1,0 @@
-# TallerJS
-ManuelAlvial
-JoaquinVillagran
